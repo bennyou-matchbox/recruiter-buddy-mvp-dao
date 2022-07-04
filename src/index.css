@@ -57,6 +57,15 @@ h1 {
   text-align: center;
 }
 
+.logo 
+{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .member-page > div {
   display: flex;
   flex-direction: row;
